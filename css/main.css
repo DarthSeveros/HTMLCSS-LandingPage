@@ -423,3 +423,12 @@ footer a:hover {
     font-size: 12px;
     text-align: center;
 }
+
+@media screen and (max-device-width: 640px){
+    .container {
+        max-width: 80%;
+    }
+    section {
+      display: static;  
+    }
+}
