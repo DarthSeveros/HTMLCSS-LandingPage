@@ -431,4 +431,12 @@ footer a:hover {
     section {
       display: grid;  
     }
+
+    .footer:after {
+        width: 100%
+    }
+
+    .flex {
+        display: grid;
+    }
 }
