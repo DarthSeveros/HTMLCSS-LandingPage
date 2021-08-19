@@ -440,7 +440,9 @@ footer a:hover {
         width: 100%
     }
 
-
+    .flex {
+        display: grid;
+    }
 
     .ps {
         flex: grid;
