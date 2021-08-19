@@ -437,6 +437,10 @@ footer a:hover {
     }
 
     .flex {
-        display: grid;
+        display: flex;
+    }
+
+    .ps {
+        flex: grid;
     }
 }
