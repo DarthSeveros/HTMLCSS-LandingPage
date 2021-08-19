@@ -432,15 +432,14 @@ footer a:hover {
       display: grid;  
     }
 
-    .footer:after {
+    footer {
+        flex: grid;
+    }
+
+    footer:after {
         width: 100%
     }
 
-    .flex {
-        display: grid;
-    }
 
-    .ps {
-        flex: grid;
-    }
+
 }
